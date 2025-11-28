@@ -14,7 +14,13 @@ function App() {
         aliquid laboriosam deleniti aut amet dolores reiciendis quisquam
         repellendus, quos explicabo! Possimus, voluptatibus.
       </p>
-      <button>Test</button>
+      <button
+        onClick={() => {
+          alert("hey i'm clicked");
+        }}
+      >
+        Test
+      </button>
     </div>
   );
 }
