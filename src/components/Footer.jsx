@@ -5,7 +5,7 @@ const Footer = () => {
         backgroundColor: "orange",
       }}
     >
-      Je suis un footer
+      Je suis un super footer orange (meilleure couleur)
     </footer>
   );
 };
