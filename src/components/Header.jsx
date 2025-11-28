@@ -2,8 +2,7 @@ const Header = () => {
   return (
     <div>
       <h1>
-        CECI EST LE TITRE DE LA BRANCHE MASTER{" "}
-        <span style={{ color: "red" }}>site</span> !
+        Ceci est mon<span style={{ color: "red" }}>site</span> !
       </h1>
     </div>
   );
