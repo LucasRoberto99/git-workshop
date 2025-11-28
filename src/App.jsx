@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import TestComp from "./components/TestComp";
 
 import "./App.css";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       >
         Test
       </button>
+      <Footer />
     </div>
   );
 }
