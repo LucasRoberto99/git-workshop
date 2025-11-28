@@ -9,10 +9,11 @@ function App() {
       <Header />
       <TestComp />
       <p>
-        Lorem ipsum dolor sit, dsq dsq qsdsq dqsdq qsd amet consectetur adipisicing elit. Tempore
-        necessitatibus sunt suscipit nobis beatae reprehenderit ex officiis
-        aliquid laboriosam deleniti aut amet dolores reiciendis quisquam
-        repellendus, quos explicabo! Possimus, voluptatibus.
+        Lorem ipsum dolor sit, dsq dsq qsdsq dqsdq qsd amet consectetur
+        adipisicing elit. Tempore necessitatibus sunt suscipit nobis beatae
+        reprehenderit ex officiis aliquid laboriosam deleniti aut amet dolores
+        reiciendis quisquam repellendus, quos explicabo! Possimus, voluptatibus.
+        Toto est un graàons !
       </p>
       <button
         onClick={() => {
